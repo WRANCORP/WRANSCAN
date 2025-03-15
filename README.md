@@ -44,7 +44,7 @@ The "STARTING_PATH" can be empty if you want to scan your whole system
 
 ```
 ##⚠️ Disclaimer
-WRANSCAN is a forensic tool for security analysis & educational purposes only. The developers are not responsible for any misuse.
+WRANSCAN is a security tool for security analysis & educational purposes only. The developers are not responsible for any misuse.
 
 ##📩 Contact & Support
 ###🔹 Twitter/X: @WRANCORP
