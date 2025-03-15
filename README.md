@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🚀 About WRANSCAN
-**WRANSCAN** is a powerful **forensic security tool** developed by **WRANCORP** to scan and analyze files for malware threats using **VirusTotal API**. It helps security analysts and incident responders quickly detect suspicious files in **Windows** and **Linux** environments.
+**WRANSCAN** is a powerful **forensic security tool** developed by **www.wrancorp.com** to scan and analyze files for malware threats using **VirusTotal API**. It helps security analysts and incident responders quickly detect suspicious files in **Windows** and **Linux** environments.
 
 ### ✨ Features
 ✔️ **Automatic Malware Detection** via VirusTotal  
@@ -19,7 +19,7 @@
 ## 🛠️ Installation
 ### 🔹 **Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/WRANSCAN.git
+git clone https://github.com/WRANCORP/WRANSCAN.git
 cd WRANSCAN
 ```
 ###🔹 Install Dependencies
