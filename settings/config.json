@@ -1,0 +1,6 @@
+{
+    "VT_API_KEY": "ad404788720bd87bc5a826648b0321313c92c8109e3e527a4ed4b5e92ec13a077",
+    "FILE_EXTENSIONS": [".bat", ".exe", ".sh", ".ps1", ".dll", ".scr", ".vbs"],
+    "STARTING_PATH":"/home/popg",
+    "SPEED":"50"
+}
